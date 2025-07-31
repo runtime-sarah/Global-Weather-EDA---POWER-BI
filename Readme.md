@@ -17,7 +17,7 @@ This Power BI dashboard helps anyone interested in weather understand it better.
 
 ##  Dashboard File
 
-Get the Power BI project file here: **[Global Waether Dashboard](<GlobalWatherDashboard.pbix>)** 
+Get the Power BI project file here: **[Global Waether Dashboard](<GlobalWeatherDashboard.pbix>)** 
 
 ---
 
