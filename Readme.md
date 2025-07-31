@@ -2,7 +2,7 @@
 
 
 <a href="https://drive.google.com/file/d/1KNKne9v9ojPId5e-kDISbu5JBmE8xYos/view?usp=sharing" target="_blank">
-  <img src="WeatherOverview.gif" alt="Weather Overview Dashboard" style="max-width:100%;">
+  <img src="WeatherOverview.gif" alt="Weather Overview Dashboard">
 </a>
 
 > 📊 **View interactive dashboard demo here:** [Click Here](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
@@ -62,13 +62,13 @@ This dashboard offers a comprehensive look at global weather. Built using Power 
 
 ---
 
-#  لوحة تحكم نظرة عامة على الطقس
+#  لوحة المعلومات نظرة عامة على الطقس
 
 <a href="https://drive.google.com/file/d/1KNKne9v9ojPId5e-kDISbu5JBmE8xYos/view?usp=sharing" target="_blank">
-  <img src="WeatherOverview.gif" alt="لوحة تحكم نظرة عامة على الطقس" style="max-width:100%;">
+  <img src="WeatherOverview.gif" alt="لوحة المعلومات نظرة عامة على الطقس">
 </a>
 
-> 📊 **شاهد العرض التفاعلي للوحة التحكم هنا:** [اضغط هنا](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
+> 📊 **شاهد العرض التفاعلي للوحة المعلومات هنا:** [اضغط هنا](https://drive.google.com/file/d/1wAYhASo5g8RRpCqWGA8V3gGpB3qy1Uo_/view?usp=sharing)
 
 ---
 
